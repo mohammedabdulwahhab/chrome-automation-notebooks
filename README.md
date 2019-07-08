@@ -13,6 +13,7 @@ You can run the python notebooks in 2 contexts:
 ### Run non-headless on Mac
 
     $ # set context = 'mac' on main.ipynb
+    $ Copy chromium binary into chrome folder (See gitbook for link to binary)
     $ jupyter notebook
 
 
